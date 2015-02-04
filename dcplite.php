@@ -10,7 +10,7 @@ Author http://jultranet.com/wp/
 */
 
 
-require WP_CONTENT_DIR.'/plugins/dcplite/ospl.php';
+require WP_CONTENT_DIR.'/plugins/display-category-posts-via-shortcode-lite/ospl.php';
 
 if( ! is_admin()) {
 wp_enqueue_style(
