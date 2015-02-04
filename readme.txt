@@ -8,9 +8,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Displays posts from a specified category in a responsive grid using a simple shortcode.
 
-After installation simply go to Settings and DCP Lite to find the plugins page with the shortcode options.
+After installation simply go to Settings > DCP Lite to find the plugins page with the shortcode options.
 
 == Description ==
+
+After installation simply go to Settings > DCP Lite to find the plugins page with the shortcode options.
 
 == Installation ==
 
