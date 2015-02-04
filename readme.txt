@@ -12,6 +12,10 @@ After installation simply go to Settings > DCP Lite to find the plugins page wit
 
 == Description ==
 
+Displays posts from a specified category in a responsive grid using a simple shortcode.
+
+Easily show and display posts from specific categories using a simple shortcode.
+
 After installation simply go to Settings > DCP Lite to find the plugins page with the shortcode options.
 
 == Installation ==
