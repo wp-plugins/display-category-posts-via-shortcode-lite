@@ -1,5 +1,5 @@
 === Display Category Posts Via Shortcode Lite ===
-Tags: display posts, posts, category, shortcode, display
+Tags: display posts, posts, category, shortcode, display, shortcode posts, category posts, posts from category
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
