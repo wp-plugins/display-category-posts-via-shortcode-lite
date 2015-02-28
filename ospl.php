@@ -73,6 +73,8 @@ function dcp_submenu_page_callback() {
             <li><b>linkfi</b> <br> whether to make featured images link to posts. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>yes</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>dots</b> <br> whether to show 3 dots or not at the end of the post content. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>yes</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>date</b> <br> whether to show date of the post. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>yes</b>. <i>PRO VERSION ONLY</i></li>
+            <li><b>loadall</b> <br> whether to show "load all" link. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>no</b>. <i>PRO VERSION ONLY</i></li>
+            <li><b>loadalltext</b> <br> The text for the loadall link. Defaults to <b>Load All</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>class</b> <br> you can add a custom class to the container div with this options if you need it. <i>PRO VERSION ONLY</i> </li>
 
         </ol>
