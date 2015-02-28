@@ -56,6 +56,8 @@ function dcp_submenu_page_callback() {
         <div class="gopro">
             go pro to unlock all the extra shortcode options for just $11.00!<br>
             <a href="http://jultranet.com/wp/" target="_blank">go pro now!</a>
+            <br><br>
+            <a href="http://jultranet.com/wp/dcp-pro/" target="_blank">view demo</a>
         </div>
         <br>
         <div class="dcplist">
@@ -80,7 +82,7 @@ function dcp_submenu_page_callback() {
         </ol>
             <p class="b">Example:</p>
               <p class="ex">[dcplite category=latest readmoretext=More...]</p>
-              <p class="ex">[dcppro category=latest readmoretext=More... charlimit=200 in_row=3 postsperpage=9]</p>
+              <p class="ex">[dcppro category=latest readmoretext=More... charlimit=200 in_row=3 postsperpage=9 loadall=yes]</p>
         </div>
     </div>
 
