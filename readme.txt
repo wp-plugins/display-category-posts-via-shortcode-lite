@@ -6,17 +6,33 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays posts from a specified category in a responsive grid using a simple shortcode.
+Displays posts with their featured images from a specified category in a responsive grid using a simple shortcode.
 
 After installation simply go to Settings > DCP Lite to find the plugins page with the shortcode options.
 
 == Description ==
 
-Displays posts from a specified category in a responsive grid using a simple shortcode.
+Displays posts with their featured images from a specified category in a responsive grid using a simple shortcode.
 
 Easily show and display posts from specific categories using a simple shortcode.
 
 After installation simply go to Settings > DCP Lite to find the plugins page with the shortcode options.
+
+If you require more features, there is also a premium version of this plugin, **Display Category Posts Via Shortcode Pro**.
+
+You can see the extra features it offers on the  Settings > DCP Lite page.
+
+Some of those features are:
+
+* Pagination
+* Ordering of the posts
+* How many posts to show in a row (2,3 or 4)
+* Ability to turn post titles into links
+* Ability to turn posts' featured images into links
+* Show date
+* Add "load all" ajax button which loads all the posts at once
+* Fetch posts from multiple categories
+* Fetch specific posts regardless of their categories
 
 == Installation ==
 

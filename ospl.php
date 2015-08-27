@@ -66,7 +66,7 @@ function dcp_submenu_page_callback() {
         <ol>
             <li><b>category</b> <br> the category from which to fetch posts</li>
             <li><b>readmoretext</b> <br> the read more link text, default is "Read more".</li>
-            <li><b>postsperpage</b> <br> how many posts to show at once. If there are more posts than this number, pagination will be activated. For pagination to be available, please install the wp-pagenavi plugin. <i>PRO VERSION ONLY</i></li>
+            <li><b>postsperpage</b> <br> how many posts to show at once. If there are more posts than this number, pagination will be activated. For pagination to be available, please install the <a href="https://wordpress.org/plugins/wp-pagenavi/" target="_blank">wp-pagenavi plugin</a>. <i>PRO VERSION ONLY</i></li>
             <li><b>readmore</b> <br> whether to show the "read more" link or not. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>yes</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>order</b> <br> whether to show posts in asceding or descending order. Can be either <b>desc</b> or <b>asc</b>. Defaults to <b>asc</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>charlimit</b> <br> limit post content to a specified number of characters. It takes the hassle out of adding "read more" tag to each post. If used, it will overwrite the "read more" tag if one is used. <i>PRO VERSION ONLY</i></li>
@@ -77,7 +77,10 @@ function dcp_submenu_page_callback() {
             <li><b>date</b> <br> whether to show date of the post. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>yes</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>loadall</b> <br> whether to show "load all" link. Can be either <b>yes</b> or <b>no</b>. Defaults to <b>no</b>. <i>PRO VERSION ONLY</i></li>
             <li><b>loadalltext</b> <br> The text for the loadall link. Defaults to <b>Load All</b>. <i>PRO VERSION ONLY</i></li>
-            <li><b>class</b> <br> you can add a custom class to the container div with this options if you need it. <i>PRO VERSION ONLY</i> </li>
+            <li><b>class</b> <br> you can add a custom class to the container div with this option if you need it. <i>PRO VERSION ONLY</i> </li>
+            <li><b>multicats</b> <br> whether to display posts from multiple categories via ids of the categories, example: <b>multicats="2,3"</b>. If this option is used it will overwrite the "category" option. <i>PRO VERSION ONLY</i></li>
+            <li><b>posts</b> <br> display specific posts via their ids regardless of their categories, example: <b>posts="2,3,11"</b>. <i>PRO VERSION ONLY</i></li>
+
 
         </ol>
             <p class="b">Example:</p>

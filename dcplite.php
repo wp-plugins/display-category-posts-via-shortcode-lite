@@ -121,7 +121,7 @@ function dcplitef($atts) {
 
             ?>
         <div class="dots" style="display:inline;">...</div>
-        <div class="rmdiv" style="display:inline;"><a href="<?php the_permalink() ?>" class="rm"><?= $readmoretext; ?></a></div>
+        <div class="rmdiv" style="display:inline;padding-left:5px;"><a href="<?php the_permalink() ?>" class="rm"><?= $readmoretext; ?></a></div>
         </div>
         </div> <!-- end .dcphc -->
     </div> <!-- end .dcp -->
