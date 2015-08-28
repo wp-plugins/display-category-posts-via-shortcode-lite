@@ -54,7 +54,7 @@ function dcp_submenu_page_callback() {
     <div class="wrap dcp">
         <h2>Display Category Posts Via Shortcode Lite</h2>
         <div class="gopro">
-            go pro to unlock all the extra shortcode options for just $11.00!<br>
+            go pro to unlock all the extra shortcode options for just $16.50!<br>
             <a href="http://jultranet.com/wp/" target="_blank">go pro now!</a>
             <br>
             <a href="http://jultranet.com/wp/dcp-pro/" target="_blank">view demo</a>
