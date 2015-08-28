@@ -25,6 +25,7 @@ You can see the extra features it offers on the  Settings > DCP Lite page.
 Some of those features are:
 
 * Pagination
+* Ability to add character limit to your posts which automatically adds the "read more" link at that point, instead of adding the "read more" break yourself to each and every post.
 * Ordering of the posts
 * How many posts to show in a row (2,3 or 4)
 * Ability to turn post titles into links

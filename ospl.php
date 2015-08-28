@@ -61,6 +61,12 @@ function dcp_submenu_page_callback() {
         </div>
         <br>
         <div class="dcplist">
+
+        <ul>
+          <li>To have images appear inside the posts, you need to attach featured images to your posts.</li>
+          <li>To have the "read more" link appear, you need to add a "read more" break inside your posts.</li>
+        </ul>        
+
         <p class="b">Shortcode options:</p>
 
         <ol>
